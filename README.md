@@ -28,20 +28,17 @@ Ensure you have the following installed:
 
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repo.git](https://github.com/mychan152000/counter-assignment.git)
-cd XXX
+1. git clone https://github.com/mychan152000/counter-assignment.git
 
-Install dependencies:
+2. cd XXX
 
-npm install
+3. Install dependencies:
 
-Start the development server:
+4. npm install
 
-npm run dev
+5. Start the development server: npm run dev
 
-Open the application in your browser:
-
-http://localhost:XXXX
+6. Open the application in your browser: http://localhost:XXXX
 
 🎯 Usage
 
