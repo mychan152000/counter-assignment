@@ -2,6 +2,8 @@
 
 ## Live Demo: https://counter-assignment-my-tran.netlify.app/
 
+## Record Prove: https://www.loom.com/share/372d4c360dba4c0ba5a9629bf95634a0?sid=55956565-73e7-4e6d-954c-9326c08c0788
+
 # 📌 Technologies Used
 
 - React – Frontend Library
