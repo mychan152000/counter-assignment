@@ -2,7 +2,7 @@
 
 ## Live Demo: https://counter-assignment-my-tran.netlify.app/
 
-📌 # Technologies Used
+# 📌 Technologies Used
 
 - React – Frontend Library
 
@@ -14,7 +14,7 @@
 
 - Tailwind CSS - Support styling
 
-🚀 # Installation
+# 🚀 Installation
 
 ✅ Prerequisites
 
